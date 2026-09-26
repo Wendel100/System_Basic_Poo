@@ -12,3 +12,4 @@ C:\Users\Wendel\Desktop\basic_system_poo\obj\Debug\net10.0\refint\basic_system_p
 C:\Users\Wendel\Desktop\basic_system_poo\obj\Debug\net10.0\basic_system_poo.pdb
 C:\Users\Wendel\Desktop\basic_system_poo\obj\Debug\net10.0\basic_system_poo.genruntimeconfig.cache
 C:\Users\Wendel\Desktop\basic_system_poo\obj\Debug\net10.0\ref\basic_system_poo.dll
+C:\Users\Wendel\Desktop\basic_system_poo\obj\Debug\net10.0\basic_system_poo.sourcelink.json
